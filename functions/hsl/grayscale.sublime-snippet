@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+grayscale(${1:\$color})
+]]></content>
+	<tabTrigger>grayscale</tabTrigger>
+	<description>SassFunction - grayscale()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

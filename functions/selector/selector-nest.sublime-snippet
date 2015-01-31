@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+selector-nest(${1:\$selectors...})
+]]></content>
+	<tabTrigger>selector-nest</tabTrigger>
+	<description>SassFunction - selector-nest()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

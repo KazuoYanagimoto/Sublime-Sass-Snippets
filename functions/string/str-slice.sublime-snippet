@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+str-slice(${1:\$string}, ${2:\$start-at}, ${3:\$end-at:-1})
+]]></content>
+	<tabTrigger>str-slice</tabTrigger>
+	<description>SassFunction - str-slice()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

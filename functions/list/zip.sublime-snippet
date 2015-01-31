@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+zip(${1:\$lists...})
+]]></content>
+	<tabTrigger>zip</tabTrigger>
+	<description>SassFunction - zip()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

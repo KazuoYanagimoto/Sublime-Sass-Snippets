@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+length(${1:\$list})
+]]></content>
+	<tabTrigger>length</tabTrigger>
+	<description>SassFunction - length()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

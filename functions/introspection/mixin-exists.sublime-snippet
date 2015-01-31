@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+mixin-exists(${1:\$name})
+]]></content>
+	<tabTrigger>mixin-exists</tabTrigger>
+	<description>SassFunction - mixin-exists()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

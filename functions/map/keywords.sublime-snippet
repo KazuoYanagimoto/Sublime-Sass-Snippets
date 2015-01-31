@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+keywords(${1:\$args})
+]]></content>
+	<tabTrigger>keywords</tabTrigger>
+	<description>SassFunction - keywords()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
