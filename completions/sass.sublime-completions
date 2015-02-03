@@ -8,7 +8,7 @@
     	// RGB Functions
         { "trigger": "rgb()\tSassFunction", "contents": "rgb(${1:\\$red}, ${2:\\$green}, ${3:\\$blue})"},
         { "trigger": "rgba()\tSassFunction", "contents": "rgba(${1:\\$red}, ${2:\\$green}, ${3:\\$blue}, ${4:\\$alpha})"},
-        { "trigger": "rgba()\tSassFunction", "contents": "rgba(${1:\\$color}, ${2:\\$alpha})"},
+        { "trigger": "rgba(color)\tSassFunction", "contents": "rgba(${1:\\$color}, ${2:\\$alpha})"},
         { "trigger": "red()\tSassFunction", "contents": "red(${1:\\$color})"},
         { "trigger": "green()\tSassFunction", "contents": "green(${1:\\$color})"},
         { "trigger": "blue()\tSassFunction", "contents": "blue(${1:\\$color})"},
@@ -33,7 +33,7 @@
         { "trigger": "alpha()\tSassFunction", "contents": "alpha(${1:\\$color})"},
         { "trigger": "opacity()\tSassFunction", "contents": "opacity(${1:\\$color})"},
         { "trigger": "rgba()\tSassFunction", "contents": "rgba(${1:\\$red}, ${2:\\$green}, ${3:\\$blue}, ${4:\\$alpha})"},
-        { "trigger": "rgba()\tSassFunction", "contents": "rgba(${1:\\$color}, ${2:\\$alpha})"},
+        { "trigger": "rgba(color)\tSassFunction", "contents": "rgba(${1:\\$color}, ${2:\\$alpha})"},
         { "trigger": "opacify()\tSassFunction", "contents": "opacify(${1:\\$color}, ${2:\\$amount})"},
         { "trigger": "fade-in()\tSassFunction", "contents": "fade-in(${1:\\$color}, ${2:\\$amount})"},
         { "trigger": "transparentize()\tSassFunction", "contents": "transparentize(${1:\\$color}, ${2:\\$amount})"},
