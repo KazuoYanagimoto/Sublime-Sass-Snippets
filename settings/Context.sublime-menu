@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Sass Snippets",
+        "mnemonic": "S",
+        "id": "sass-snippets",
+        "children":
+        [
+            { "command": "open_url", "args": {"url": "https://github.com/KazuoYanagimoto/Sublime-Sass-Snippets/blob/master/CheatSheet.md"}, "caption": "Open CheatSheet" }
+        ]
+    }
+]
