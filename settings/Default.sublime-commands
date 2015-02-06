@@ -1,6 +1,6 @@
 [
     {
         "caption": "Sass Snippets: Open CheatSheet",
-        "command": "open_cheat_sheet"
+        "command": "open_url", "args": {"url": "https://github.com/KazuoYanagimoto/Sublime-Sass-Snippets/blob/master/CheatSheet.md"}
     }
 ]
