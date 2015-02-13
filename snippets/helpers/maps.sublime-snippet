@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:map}: ("${2:key1}": ${3:value1}, "${4:key2}": ${5:value2}, "${6:key3}": ${7:value3});
+]]></content>
+	<tabTrigger>maps</tabTrigger>
+	<description>Sass - maps</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

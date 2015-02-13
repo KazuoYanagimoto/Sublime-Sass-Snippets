@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+alpha(${1:\$color})
+]]></content>
+	<tabTrigger>alpha</tabTrigger>
+	<description>SassFunction - alpha()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

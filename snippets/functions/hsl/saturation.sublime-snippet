@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+saturation(${1:\$color})
+]]></content>
+	<tabTrigger>saturation</tabTrigger>
+	<description>SassFunction - saturation()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

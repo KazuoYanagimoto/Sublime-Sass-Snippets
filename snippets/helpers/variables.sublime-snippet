@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:variables}: ${2:properties};
+]]></content>
+	<tabTrigger>variables</tabTrigger>
+	<description>Sass - variables</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

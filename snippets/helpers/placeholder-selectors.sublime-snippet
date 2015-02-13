@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+%${1:placeholder} {
+	$2
+}$0
+]]></content>
+	<tabTrigger>placeholder</tabTrigger>
+	<description>Sass - %placeholder</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
