@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-append(${1:\$list}, ${2:\$val}, ${3:\$separator:auto})
-]]></content>
-	<tabTrigger>append</tabTrigger>
-	<description>SassFunction - append()</description>
-	<scope>source.scss, source.sass</scope>
-</snippet>

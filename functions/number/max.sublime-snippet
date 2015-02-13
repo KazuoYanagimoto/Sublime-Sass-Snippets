@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-max(${1:\$numbers...})
-]]></content>
-	<tabTrigger>max</tabTrigger>
-	<description>SassFunction - max()</description>
-	<scope>source.scss, source.sass</scope>
-</snippet>

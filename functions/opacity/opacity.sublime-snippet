@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-opacity(${1:\$color})
-]]></content>
-	<tabTrigger>opacity</tabTrigger>
-	<description>SassFunction - opacity()</description>
-	<scope>source.scss, source.sass</scope>
-</snippet>
